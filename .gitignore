@@ -1,0 +1,11 @@
+.idea/
+.settings/
+*.iml
+stacktrace.log
+target/
+grails-app/i18n/
+web-app/css/
+web-app/images/
+web-app/js/
+cobertura.ser
+grails-cassandra-astyanax-*.zip
